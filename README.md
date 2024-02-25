@@ -36,3 +36,15 @@ Identificar el context on el Big Data té afectació de valor
 
 Descobrir quines possiblitats tècniques i econòmiques obre el seu desenvolupament
 
+# 2. Com gestionar grans volums de dades
+
+Un cop clarificat el concepte i les característiques del Big Data, comencem el segon mòdul explicant les noves eines i estratègies que podem emprar per tal de gestionar els grans volums de dades que comporta el Big Data.
+
+Objectius específics:
+
+Descobrir els diferentes reptes a resoldre
+
+Identificar les diferents famílies de solucions
+
+Entrar en detall en les diferents eines i estratègies més representatives i habituals
+
